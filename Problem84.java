@@ -157,7 +157,7 @@ public class Problem84
 			}
 		}
 		System.out.println(largest + " " + secondLargest + " " + thirdLargest);
-		System.out.println(System.currentTimeMillis() - starttime);
+		System.out.println(System.currentTimeMillis() - starttime + " ms");
 	}
 	
 	
